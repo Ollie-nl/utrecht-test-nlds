@@ -856,13 +856,13 @@
         },
         "primary": {
           "font-family": {
-            "value": "Roboto Slab, Georgia, serif",
+            "value": "Lucida Grande, Verdana, sans-serif",
             "type": "fontFamilies"
           }
         },
         "secondary": {
           "font-family": {
-            "value": "Roboto, Tahoma, Verdana, sans-serif",
+            "value": "Lucida Grande, Verdana, sans-serif",
             "type": "fontFamilies"
           }
         },
@@ -933,12 +933,12 @@
         "interaction": {
           "color": {
             "type": "color",
-            "value": "{example.brand.violet.700}"
+            "value": "{example.brand.orange.400}"
           },
           "active": {
             "color": {
               "type": "color",
-              "value": "{example.brand.violet.800}"
+              "value": "{example.brand.green.500}"
             }
           }
         },
@@ -1484,7 +1484,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{nl.common.interaction.color}"
+            "value": "{example.brand.blue.300}"
           },
           "border-color": {
             "value": "transparent",
